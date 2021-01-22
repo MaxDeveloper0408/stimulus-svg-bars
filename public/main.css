@@ -2,7 +2,7 @@ body {
 	font-family: -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif;
 }
 .graphics {
-	max-width: 800px;
+	max-width: 500px;
 	padding: 100px;
 	background: #1e1e1e;
 }
@@ -17,6 +17,8 @@ body {
 }
 .printer {
 	margin-bottom: 50px;
+	height: 40px;
+    width: 200px;
 }
 .bars-item {
 	display: inline-block;
@@ -26,5 +28,10 @@ body {
 	color: #FFF;
 }
 p {
+	font-size: 22px;
+	padding-bottom: 10px;
 	color: #FFF;
+}
+svg {
+	margin-bottom: 15px;
 }
