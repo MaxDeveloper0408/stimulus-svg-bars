@@ -1,7 +1,7 @@
 # Installation
 
 ```
-$ git clone https://github.com/hotwired/stimulus-starter.git
+$ git clone https://github.com/MaxDeveloper0408/stimulus-svg-bars.git
 $ cd stimulus-starter
 $ yarn install
 $ yarn start
